@@ -25,6 +25,19 @@ python it_depends_examples.py
 
 ---
 
+## Example Output
+
+`oop_right_examples.py`
+![oop_right_examples output](assets/screenshots/output_oop_right.png)
+
+`procedural_right_examples.py`
+![procedural_right_examples output](assets/screenshots/output_procedural.png)
+
+`it_depends_examples.py`
+![it_depends_examples output](assets/screenshots/output_it_depends.png)
+
+---
+
 ## Table of Contents
 
 1. [The Core Question](#1-the-core-question)
